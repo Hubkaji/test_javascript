@@ -1,7 +1,10 @@
 // oblast definice funkcí
 
 // 1) Funkce co vrací boolean hodnotu zda arrayInput, obsahuje v sobě stringToFind
-function contains(arrayInput, stringToFind) {}
+function contains(arrayInput, stringToFind) {
+  return arrayInput.includes(stringToFind);
+
+}
 
 // 2) Funkce co vrací délku string řetězce poskytnutého ve stringInput
 function size(stringInput) {}
