@@ -43,7 +43,7 @@ console.log(result5);
 // do kódu níže nezasahujte
 
 module.exports = {
-  variant: "1A",
+  variant: "2A",
   contains,
   size,
   negate,
